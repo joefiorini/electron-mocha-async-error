@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "chai": "^4.1.2",
+    "electron": "^1.8.2",
+    "electron-mocha": "^6.0.1",
+    "enzyme": "^3.3.0",
+    "enzyme-adapter-react-16": "^1.1.1",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-register": "^6.26.0"
+  }
+}
